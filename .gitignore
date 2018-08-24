@@ -1,0 +1,11 @@
+node_modules
+build
+release
+dist
+package-lock.json
+yarn.lock
+*.log
+.vscode
+.idea/
+.gradle/
+src/**/inject*.scss
